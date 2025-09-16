@@ -40,12 +40,12 @@ The model learns to identify whether an input image is of a **cat** 🐱 or a **
 ---
 
 ## 🛠️ Requirements
-python>=3.8
-tensorflow
-keras
-numpy
-pandas
-matplotlib
-seaborn
+1.python>=3.8
+2.tensorflow
+3.keras
+4.numpy
+5.pandas
+6.matplotlib
+7.seaborn
 
 
